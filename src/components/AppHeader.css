@@ -15,3 +15,7 @@ header h3 {
 header .logo {
     filter: invert()
 }
+
+header nav {
+    margin-right: 1em;
+}
