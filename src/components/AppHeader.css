@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  width: 100vw;
+}
+
+header h3 {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+}
+
+header .logo {
+    filter: invert()
+}
