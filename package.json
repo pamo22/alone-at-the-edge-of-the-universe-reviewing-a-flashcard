@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@types/uuid": "^10.0.0",
+    "mariadb": "^3.4.5",
+    "mysql2": "^3.16.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.12.0",
