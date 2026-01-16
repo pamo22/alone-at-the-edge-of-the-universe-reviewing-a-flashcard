@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2.7317892"
+     inkscape:cx="150.08479"
+     inkscape:cy="211.03385"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path21"
+       cx="120.25086"
+       cy="81.814514"
+       r="66.073914" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 121.89813,138.73691 c -12.44605,26.72242 6.22303,31.11514 6.22303,31.11514"
+       id="path23" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path25"
+       cx="147.1563"
+       cy="158.13812"
+       r="13.910297" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="M 132.14782,155.57569 C 71.747849,189.25326 121.53207,255.87626 121.53207,255.87626"
+       id="path26" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 153.74539,145.326 c 1.09818,-7.68727 -1.09818,-6.22303 -1.09818,-6.22303"
+       id="path28" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       x="120.9813"
+       y="60.766037"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         x="120.9813"
+         y="60.766037"
+         style="font-size:21.3333px;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1">I love </tspan><tspan
+         sodipodi:role="line"
+         x="120.9813"
+         y="87.432663"
+         id="tspan29"
+         style="font-size:21.3333px;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1">reviewing </tspan><tspan
+         sodipodi:role="line"
+         x="120.9813"
+         y="114.09929"
+         id="tspan30"
+         style="font-size:21.3333px;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1">flashcards</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="M 27.454534,300.53563 C 157.03994,259.1708 310.05321,136.54055 310.05321,136.54055 l 2.92848,182.66417 -284.428974,-4.39273 z"
+       id="path30" />
+  </g>
+</svg>

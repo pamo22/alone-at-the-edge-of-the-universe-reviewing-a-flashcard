@@ -1,0 +1,21 @@
+header {
+  display: flex;
+  justify-content: space-between; /* or space-around, space-evenly */
+  align-items: center; /* vertical alignment */
+  background: #333333;
+  width: 100vw;
+}
+
+img {
+    height: 3rem;
+}
+
+h4 {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+nav {
+    padding: 0 1rem;
+}
